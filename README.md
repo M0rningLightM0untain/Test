@@ -1,6 +1,6 @@
 # Test
 Testing, Learning and Reference
 
-## Basic heading
+## Description
 
-Main body text lorem ipsum dolor etc.
+Basic test repo to check I know what I am doing before applying for research data science course.
